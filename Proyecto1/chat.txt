@@ -1,0 +1,6 @@
+¡Hola humano! Soy un chatbot de AI impulsado por GPT. ¡Hazme cualquier pregunta que quieras!
+Inventar un problema en lógica proposicional. Para ello, se deberá seleccionar un problema cualquiera (un problema de la vida cotidiana, un juego de lógica, etc.) y plantear un sistema de fórmulas de lógica proposicional que permita resolverlo. aparezcan en torno a 30 proposiciones atómicas en al menos 10 fórmulas
+Un problema que podemos abordar utilizando la lógica proposicional es el siguiente: 
+Supongamos que queremos determinar qué estudiantes de una clase pueden asistir a un viaje de fin de curso. Para resolver este problema, podemos plantear un sistema de fórmulas de lógica proposicional que representen las diferentes condiciones y restricciones.
+
+1. Sea A
